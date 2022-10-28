@@ -1,0 +1,91 @@
+outputs_ablation_containPrefix_256/wikitext_gpt2-0.8-t0.5_gpt2-xl_256.jsonl
+0.883903517406
+outputs_ablation_containPrefix_256/wikitext_gpt2-0.8-t0.5_gpt2-xl_256.jsonl rep-2 is 9.49, rep-3 is 1.93, rep-4 is 0.42, and diversity is 0.88
+1306 1306
+1293 1293
+0.9082390139656
+Evaluating coherence score
+1314 1314
+0.59
+outputs_ablation_containPrefix_256/wikitext_gpt2-0.8-t0.5_gpt2-xl_256.jsonl
+1306 1306
+Evaluating perplexity score.
+{'name': 'outputs_ablation_containPrefix_256/wikitext_gpt2-0.8-t0.5_gpt2-xl_256.jsonl', 'rep-2': 9.49, 'rep-3': 1.93, 'rep-4': 0.42, 'diversity': 0.883903517406, 'mauve': 0.9082390139656, 'coherence': 0.5936483676393646, 'recall': 0.08185778834931368, 'precision': 0.0839860530562472, 'f1': 0.07382278703786861, 'ppl': 15.8984375}
+	name&	rep-2&	rep-3&	rep-4&	diversity&	mauve&	coherence&	recall&	precision&	f1&	ppl&\\
+	outputs_ablation_containPrefix_256/wikitext_gpt2-0.8-t0.5_gpt2-xl_256.jsonl&	9.49&	1.93&	0.42&	0.88&	0.91&	0.59&	0.08&	0.08&	0.07&	15.9&\\
+outputs_ablation_containPrefix_256/wikitext_gpt2-1.0-t0.5_gpt2-xl_256.jsonl
+0.883972264032
+outputs_ablation_containPrefix_256/wikitext_gpt2-1.0-t0.5_gpt2-xl_256.jsonl rep-2 is 9.52, rep-3 is 1.88, rep-4 is 0.43, and diversity is 0.88
+1306 1306
+1293 1293
+0.8836952891468547
+Evaluating coherence score
+1314 1314
+0.6
+outputs_ablation_containPrefix_256/wikitext_gpt2-1.0-t0.5_gpt2-xl_256.jsonl
+1306 1306
+Evaluating perplexity score.
+{'name': 'outputs_ablation_containPrefix_256/wikitext_gpt2-1.0-t0.5_gpt2-xl_256.jsonl', 'rep-2': 9.52, 'rep-3': 1.88, 'rep-4': 0.43, 'diversity': 0.883972264032, 'mauve': 0.8836952891468547, 'coherence': 0.5962771062981592, 'recall': 0.08033169887213536, 'precision': 0.08466542835530834, 'f1': 0.07348750057613403, 'ppl': 16.203125}
+	name&	rep-2&	rep-3&	rep-4&	diversity&	mauve&	coherence&	recall&	precision&	f1&	ppl&\\
+	outputs_ablation_containPrefix_256/wikitext_gpt2-1.0-t0.5_gpt2-xl_256.jsonl&	9.52&	1.88&	0.43&	0.88&	0.88&	0.6&	0.08&	0.08&	0.07&	16.2&\\
+outputs_ablation_containPrefix_256/book_gpt2-1.0-t0.5_gpt2-xl_256.jsonl
+0.8781673230750001
+outputs_ablation_containPrefix_256/book_gpt2-1.0-t0.5_gpt2-xl_256.jsonl rep-2 is 10.05, rep-3 is 1.95, rep-4 is 0.43, and diversity is 0.88
+1932 1932
+1736 1736
+0.900782340042276
+Evaluating coherence score
+1947 1947
+0.53
+outputs_ablation_containPrefix_256/book_gpt2-1.0-t0.5_gpt2-xl_256.jsonl
+1932 1932
+Evaluating perplexity score.
+{'name': 'outputs_ablation_containPrefix_256/book_gpt2-1.0-t0.5_gpt2-xl_256.jsonl', 'rep-2': 10.05, 'rep-3': 1.95, 'rep-4': 0.43, 'diversity': 0.8781673230750001, 'mauve': 0.900782340042276, 'coherence': 0.5272046889044042, 'recall': 0.09651894782479266, 'precision': 0.10674656342907804, 'f1': 0.08362345244530472, 'ppl': 13.3828125}
+	name&	rep-2&	rep-3&	rep-4&	diversity&	mauve&	coherence&	recall&	precision&	f1&	ppl&\\
+	outputs_ablation_containPrefix_256/book_gpt2-1.0-t0.5_gpt2-xl_256.jsonl&	10.05&	1.95&	0.43&	0.88&	0.9&	0.53&	0.1&	0.11&	0.08&	13.38&\\
+outputs_ablation_containPrefix_256/book_gpt2-0.8-t0.5_gpt2-xl_256.jsonl
+0.876993015691
+outputs_ablation_containPrefix_256/book_gpt2-0.8-t0.5_gpt2-xl_256.jsonl rep-2 is 10.17, rep-3 is 1.97, rep-4 is 0.41, and diversity is 0.88
+1932 1932
+1736 1736
+0.9087646921745369
+Evaluating coherence score
+1947 1947
+0.52
+outputs_ablation_containPrefix_256/book_gpt2-0.8-t0.5_gpt2-xl_256.jsonl
+1932 1932
+Evaluating perplexity score.
+{'name': 'outputs_ablation_containPrefix_256/book_gpt2-0.8-t0.5_gpt2-xl_256.jsonl', 'rep-2': 10.17, 'rep-3': 1.97, 'rep-4': 0.41, 'diversity': 0.876993015691, 'mauve': 0.9087646921745369, 'coherence': 0.5240986985185542, 'recall': 0.09046655826066857, 'precision': 0.10050733540137445, 'f1': 0.07960741193848492, 'ppl': 12.8203125}
+	name&	rep-2&	rep-3&	rep-4&	diversity&	mauve&	coherence&	recall&	precision&	f1&	ppl&\\
+	outputs_ablation_containPrefix_256/book_gpt2-0.8-t0.5_gpt2-xl_256.jsonl&	10.17&	1.97&	0.41&	0.88&	0.91&	0.52&	0.09&	0.1&	0.08&	12.82&\\
+outputs_ablation_containPrefix_256/wikinews_gpt2-1.0-t0.5_gpt2-xl_256.jsonl
+0.9177545380079999
+outputs_ablation_containPrefix_256/wikinews_gpt2-1.0-t0.5_gpt2-xl_256.jsonl rep-2 is 6.83, rep-3 is 1.24, rep-4 is 0.26, and diversity is 0.92
+1995 1995
+1972 1972
+0.9265539646176886
+Evaluating coherence score
+2000 2000
+0.63
+outputs_ablation_containPrefix_256/wikinews_gpt2-1.0-t0.5_gpt2-xl_256.jsonl
+1995 1995
+Evaluating perplexity score.
+{'name': 'outputs_ablation_containPrefix_256/wikinews_gpt2-1.0-t0.5_gpt2-xl_256.jsonl', 'rep-2': 6.83, 'rep-3': 1.24, 'rep-4': 0.26, 'diversity': 0.9177545380079999, 'mauve': 0.9265539646176886, 'coherence': 0.627049072265625, 'recall': 0.10551973281674105, 'precision': 0.133052004123379, 'f1': 0.1078504408231128, 'ppl': 15.5625}
+	name&	rep-2&	rep-3&	rep-4&	diversity&	mauve&	coherence&	recall&	precision&	f1&	ppl&\\
+	outputs_ablation_containPrefix_256/wikinews_gpt2-1.0-t0.5_gpt2-xl_256.jsonl&	6.83&	1.24&	0.26&	0.92&	0.93&	0.63&	0.11&	0.13&	0.11&	15.56&\\
+outputs_ablation_containPrefix_256/wikinews_gpt2-0.8-t0.5_gpt2-xl_256.jsonl
+0.91401653772
+outputs_ablation_containPrefix_256/wikinews_gpt2-0.8-t0.5_gpt2-xl_256.jsonl rep-2 is 7.05, rep-3 is 1.36, rep-4 is 0.31, and diversity is 0.91
+1995 1995
+1972 1972
+0.9283530479107103
+Evaluating coherence score
+2000 2000
+0.63
+outputs_ablation_containPrefix_256/wikinews_gpt2-0.8-t0.5_gpt2-xl_256.jsonl
+1995 1995
+Evaluating perplexity score.
+{'name': 'outputs_ablation_containPrefix_256/wikinews_gpt2-0.8-t0.5_gpt2-xl_256.jsonl', 'rep-2': 7.05, 'rep-3': 1.36, 'rep-4': 0.31, 'diversity': 0.91401653772, 'mauve': 0.9283530479107103, 'coherence': 0.6257797241210937, 'recall': 0.1032752170474323, 'precision': 0.12897196421645463, 'f1': 0.10527804668655238, 'ppl': 14.7890625}
+	name&	rep-2&	rep-3&	rep-4&	diversity&	mauve&	coherence&	recall&	precision&	f1&	ppl&\\
+	outputs_ablation_containPrefix_256/wikinews_gpt2-0.8-t0.5_gpt2-xl_256.jsonl&	7.05&	1.36&	0.31&	0.91&	0.93&	0.63&	0.1&	0.13&	0.11&	14.79&\\
+outputs_ablation_containPrefix_256/full_results_containPrefix_ablation
