@@ -25,4 +25,4 @@ python run_generation.py --model_name_or_path gpt2-xl --model_type gpt2 --length
 ```
 
 ---------------
-For now, this code is used for producing all results in the paper. We will release a cleaner version of the code soon;  
+This code is used for producing all results in the paper. We will release a cleaner version of the code soon;  
