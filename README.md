@@ -19,6 +19,7 @@ pip install --editable .
 pip install torch
 pip install tokenizers==0.12
 pip install sacremoses
+mkdir outputs
 ```
 -------------
 ##  Run contrastive decoding on a specified prompt:  
