@@ -12,7 +12,7 @@ Start from parent folder of ContrastiveDecoding.
 
 ```python
 git clone https://github.com/huggingface/transformers
-rm -rf transformers/src
+mv transformers/src transformers/original_src_bak
 mv ContrastiveDecoding/transformers/src transformers
 cd transformers
 pip install --editable .
