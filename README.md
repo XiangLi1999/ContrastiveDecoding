@@ -7,8 +7,18 @@ Arxiv Link: https://arxiv.org/abs/2210.15097
  
 -------------
 ## Setup 
+
+Start from parent folder of ContrastiveDecoding.
+
 ```python
-pip install -e transformers 
+git clone https://github.com/huggingface/transformers
+rm -rf transformers/src
+mv ContrastiveDecoding/transformers/src transformers
+cd transformers
+pip install --editable .
+pip install torch
+pip install tokenizers==0.12
+pip install sacremoses
 ```
 -------------
 ##  Run contrastive decoding on a specified prompt:  
