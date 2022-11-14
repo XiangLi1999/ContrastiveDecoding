@@ -900,7 +900,7 @@ def main(args):
             temperature=args.temperature,
             top_k=args.k,
             top_p=args.p,
-            typical=0.95,
+            typical_p=0.95,
             repetition_penalty=args.repetition_penalty,
             do_sample=True,
             num_beams=1,
